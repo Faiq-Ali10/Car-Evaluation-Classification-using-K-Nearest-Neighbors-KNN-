@@ -37,9 +37,3 @@ The dataset consists of the following columns:
    - The model was evaluated using the **classification report** containing metrics like **precision**, **recall**, **f1-score**, and **accuracy**.
    - A **confusion matrix** was used to visualize the performance of the classifier.
 
-## Installation
-
-To run this project, you need to have Python installed. You can set up the project by installing the required libraries:
-
-```bash
-pip install -r requirements.txt
